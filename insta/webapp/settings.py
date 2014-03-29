@@ -1,0 +1,9 @@
+secret_key = 's@amuel'
+mongo_dbname = 'twitter'
+mongo_host = 'localhost'
+mongo_port = 27017
+DEBUG = True
+client_secret = '04e72f5e767147bbb4da6168c3495270'
+client_id = 'e8bddc5ef0e5460cbc5c05a8945c282f'
+access_token = '194916491.e8bddc5.f6a363bb1db74f808cf0e55c6dca9e53'
+pages = 10
